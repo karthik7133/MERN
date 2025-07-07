@@ -42,7 +42,7 @@ const Booking = () => {
   useEffect(() => {
     const fetchCar = async () => {
       try {
-        const res = await axios.get(`http://localhost:5000/api/cars/${id}`);
+        const res = await axios.get(`https://mern-project-au3d.onrender.com/api/cars/${id}`);
         setCar(res.data.data); // access the car from res.data.data
       } catch (error) {
         console.error("Failed to fetch car:", error);
@@ -101,7 +101,7 @@ const Booking = () => {
     }
 
     try {
-      const res = await axios.post("http://localhost:5000/api/bookings", {
+      const res = await axios.post("https://mern-project-au3d.onrender.com/api/bookings", {
         user:user.id, // <-- added user
         carId: car._id,
         bookingDetails: {
