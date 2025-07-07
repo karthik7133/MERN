@@ -25,7 +25,7 @@ const CarDetails = () => {
   useEffect(() => {
     const fetchCar = async () => {
       try {
-        const res = await axios.get(`http://localhost:5000/api/cars/${id}`);
+        const res = await axios.get(`https://mern-project-au3d.onrender.com/api/cars/${id}`);
         setCar(res.data.data);
       } catch (error) {
         console.error('Failed to fetch car:', error);
