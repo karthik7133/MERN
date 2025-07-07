@@ -852,7 +852,7 @@
             "rating": 4.5,
             "reviews": 120,
             "availability": true,
-            "location": "Tamil NadueralaarnataTamil Nadueralaa"
+            "location": "Karnataka"
           },
           {
             "name": "Mahindra XUV700",
@@ -864,7 +864,7 @@
             "rating": 4.7,
             "reviews": 89,
             "availability": true,
-            "location": "Tamil NadueralaarnataTamil Nadueralaa"
+            "location": "Karnataka"
           },
           {
             "name": "Ford Mustang",
@@ -876,7 +876,7 @@
             "rating": 4.8,
             "reviews": 156,
             "availability": true,
-            "location": "Tamil NadueralaarnataTamil Nadueralaa"
+            "location": "Karnataka"
           },
           {
             "name": "toyota glanza",
@@ -888,7 +888,7 @@
             "rating": 4.3,
             "reviews": 203,
             "availability": true,
-            "location": "Tamil NadueralaarnataTamil Nadueralaa"
+            "location": "Karnataka"
           },
           {
             "name": "Tata Tiago",
@@ -896,11 +896,11 @@
             "pricePerDay": 1000,
             "image": "https://images.unsplash.com/photo-1611902029807-570da6122e2e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGF0YSUyMFRpYWdvfGVufDB8fDB8fHww",
             "features": ["5 Seater", "AC", "Manual", "Petrol"],
-            "description": "Affordable and reliable hatchbacTamil NadueralaarnataTamil Nadueralaa for budget-conscious travelers",
+            "description": "Affordable and reliable hatchbacKarnataka for budget-conscious travelers",
             "rating": 4.2,
             "reviews": 167,
             "availability": true,
-            "location": "Tamil NadueralaarnataTamil Nadueralaa"
+            "location": "Karnataka"
           },
           {
             "name": "Mercedes-Benz C-Class",
@@ -912,7 +912,7 @@
             "rating": 4.1,
             "reviews": 134,
             "availability": true,
-            "location": "Tamil NadueralaarnataTamil Nadueralaa"
+            "location": "Karnataka"
           },
           {
             "name": "Maruti Baleno",
@@ -920,11 +920,11 @@
             "pricePerDay": 1300,
             "image": "https://imgd.aeplcdn.com/1056x594/n/t4frrua_1559467.jpg?q=80",
             "features": ["5 Seater", "AC", "Manual", "Petrol"],
-            "description": "Premium hatchbacTamil NadueralaarnataTamil Nadueralaa with excellent fuel efficiency",
+            "description": "Premium hatchbacKarnataka with excellent fuel efficiency",
             "rating": 4.4,
             "reviews": 178,
             "availability": true,
-            "location": "Tamil NadueralaarnataTamil Nadueralaa"
+            "location": "Karnataka"
           },
           {
             "name": "Hyundai Verna",
@@ -936,7 +936,7 @@
             "rating": 4.6,
             "reviews": 145,
             "availability": true,
-            "location": "Tamil NadueralaarnataTamil Nadueralaa"
+            "location": "Karnataka"
           },
           {
             "name": "Tata Harrier",
@@ -948,7 +948,7 @@
             "rating": 4.5,
             "reviews": 112,
             "availability": true,
-            "location": "Tamil NadueralaarnataTamil Nadueralaa"
+            "location": "Karnataka"
           },
           {
             "name": "Honda City",
@@ -960,7 +960,7 @@
             "rating": 4.5,
             "reviews": 189,
             "availability": true,
-            "location": "Tamil NadueralaarnataTamil Nadueralaa"
+            "location": "Karnataka"
           },
 
           {
@@ -973,7 +973,7 @@
             "rating": 4.5,
             "reviews": 120,
             "availability": true,
-            "location": "Tamil Naduerala"
+            "location": "Kerala"
           },
           {
             "name": "Mahindra XUV700",
@@ -985,7 +985,7 @@
             "rating": 4.7,
             "reviews": 89,
             "availability": true,
-            "location": "Tamil Naduerala"
+            "location": "Kerala"
           },
           {
             "name": "Ford Mustang",
@@ -997,19 +997,19 @@
             "rating": 4.8,
             "reviews": 156,
             "availability": true,
-            "location": "Tamil Naduerala"
+            "location": "Kerala"
           },
           {
-            "name": "SuzuTamil Nadueralai Swift",
+            "name": "SuzuKeralai Swift",
             "price": "₹1200/-",
             "pricePerDay": 1200,
-            "image": "https://www.marutisuzuTamil Nadueralai.com/-/media/images/maruti/marutisuzuTamil Nadueralai/car/car-profile-shots/solid-redn.ashx",
+            "image": "https://www.marutisuzuKeralai.com/-/media/images/maruti/marutisuzuKeralai/car/car-profile-shots/solid-redn.ashx",
             "features": ["5 Seater", "AC", "Manual", "Petrol"],
             "description": "Compact and fuel-efficient car perfect for city driving",
             "rating": 4.3,
             "reviews": 203,
             "availability": true,
-            "location": "Tamil Naduerala"
+            "location": "Kerala"
           },
           {
             "name": "Tata Tiago",
@@ -1017,11 +1017,11 @@
             "pricePerDay": 1000,
             "image": "https://images.unsplash.com/photo-1611902029807-570da6122e2e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGF0YSUyMFRpYWdvfGVufDB8fDB8fHww",
             "features": ["5 Seater", "AC", "Manual", "Petrol"],
-            "description": "Affordable and reliable hatchbacTamil Naduerala for budget-conscious travelers",
+            "description": "Affordable and reliable hatchbacKerala for budget-conscious travelers",
             "rating": 4.2,
             "reviews": 167,
             "availability": true,
-            "location": "Tamil Naduerala"
+            "location": "Kerala"
           },
           {
             "name": "Mercedes-Benz C-Class",
@@ -1033,7 +1033,7 @@
             "rating": 4.1,
             "reviews": 134,
             "availability": true,
-            "location": "Tamil Naduerala"
+            "location": "Kerala"
           },
           {
             "name": "Maruti Baleno",
@@ -1041,11 +1041,11 @@
             "pricePerDay": 1300,
             "image": "https://imgd.aeplcdn.com/1056x594/n/t4frrua_1559467.jpg?q=80",
             "features": ["5 Seater", "AC", "Manual", "Petrol"],
-            "description": "Premium hatchbacTamil Naduerala with excellent fuel efficiency",
+            "description": "Premium hatchbacKerala with excellent fuel efficiency",
             "rating": 4.4,
             "reviews": 178,
             "availability": true,
-            "location": "Tamil Naduerala"
+            "location": "Kerala"
           },
           {
             "name": "Hyundai Verna",
@@ -1057,7 +1057,7 @@
             "rating": 4.6,
             "reviews": 145,
             "availability": true,
-            "location": "Tamil Naduerala"
+            "location": "Kerala"
           },
           {
             "name": "Tata Harrier",
@@ -1069,7 +1069,7 @@
             "rating": 4.5,
             "reviews": 112,
             "availability": true,
-            "location": "Tamil Naduerala"
+            "location": "Kerala"
           },
           {
             "name": "Honda City",
@@ -1081,7 +1081,7 @@
             "rating": 4.5,
             "reviews": 189,
             "availability": true,
-            "location": "Tamil Naduerala"
+            "location": "Kerala"
           },
           {
             "name": "Toyota Innova",
