@@ -19,7 +19,7 @@ const Login = () => {
     setError("");
 
     try {
-      const response = await axios.post("http://localhost:5000/api/auth/login", {
+      const response = await axios.post("https://mern-project-au3d.onrender.com/api/auth/login", {
         email: credentials.email,
         password: credentials.password,
       });
