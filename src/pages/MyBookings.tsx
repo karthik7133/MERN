@@ -41,7 +41,7 @@ const MyBookings = () => {
         }
 
         const res = await axios.get(
-          `http://localhost:5000/api/bookings/user/${user.id}`,
+          `https://mern-project-au3d.onrender.com/api/bookings/user/${user.id}`,
           {
             headers: {
               Authorization: `Bearer ${token}`,
